@@ -1,185 +1,287 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
+      "titulo": "1º Temporada",
+      "cor": "#e2d626",
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Acompanhe AO VIVO os Episódeos da melhor série já feita!",
+          "url": "https://www.youtube.com/watch?v=w4TlAoNqfcQ"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Episódio 01",
+          "url": "https://www.youtube.com/watch?v=LJW4Dp_s_KE&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Episódio 02",
+          "url": "https://www.youtube.com/watch?v=peESUfw__YU&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=6"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Episódio 03",
+          "url": "https://www.youtube.com/watch?v=mTASab06u5M&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=11"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Episódio 04",
+          "url": "https://www.youtube.com/watch?v=sFsAglfFABw&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=16"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Episódio 05",
+          "url": "https://www.youtube.com/watch?v=gooyYjIMEoE&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=21"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Episódio 06",
+          "url": "https://www.youtube.com/watch?v=K1EhqQM93Ak&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=26"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Episódio 07",
+          "url": "https://www.youtube.com/watch?v=Lz-y3Lfm1C0&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=31"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Episódio 08",
+          "url": "https://www.youtube.com/watch?v=-NZJL0GyOAE&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=36"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Episódio 09",
+          "url": "https://www.youtube.com/watch?v=KcalqJl2kQE&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=41"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+          "titulo": "Episódio 10",
+          "url": "https://www.youtube.com/watch?v=OzXFv2UChHM&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=46"
+        },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Episódio 11",
+          "url": "https://www.youtube.com/watch?v=JlOrpO6cS0w&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=51"
+        },
+        {
+          "titulo": "Episódio 12",
+          "url": "https://www.youtube.com/watch?v=qMVIrQZRhbI&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=56"
+        },
+        {
+          "titulo": "Episódio 13",
+          "url": "https://www.youtube.com/watch?v=6kv5dB0THvk&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=61"
+        },
+        {
+          "titulo": "Episódio 14",
+          "url": "https://www.youtube.com/watch?v=bmCHL8wfan4&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=66"
+        },
+        {
+          "titulo": "Episódio 15",
+          "url": "https://www.youtube.com/watch?v=eiTnx3LXdho&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=71"
+        },
+        {
+          "titulo": "Episódio 16",
+          "url": "https://www.youtube.com/watch?v=_yh0qPh2s5o&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=76"
+        },
+        {
+          "titulo": "Episódio 17",
+          "url": "https://www.youtube.com/watch?v=p6FbKhr0Xd8&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=81"
+        },
+        {
+          "titulo": "Episódio 18",
+          "url": "https://www.youtube.com/watch?v=jirVG2xxT-A&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=88"
+        },
+        {
+          "titulo": "Episódio 19",
+          "url": "https://www.youtube.com/watch?v=29Th1rsu4Ds&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=91"
+        },
+        {
+          "titulo": "Episódio 20",
+          "url": "https://www.youtube.com/watch?v=5avkkiW2zE0&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=97"
+        },
+        {
+          "titulo": "Episódio 21",
+          "url": "https://www.youtube.com/watch?v=mDZWzqew58U&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=101"
+        },
+        {
+          "titulo": "Episódio 22",
+          "url": "https://www.youtube.com/watch?v=DnVnr54tzds&list=PLLGZc9yukW0cM0W_6dJbhI0EjHBjiinhQ&index=106"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
+      "titulo": "2º Temporada",
+      "cor": "#e2d626",
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Episódio 01",
+          "url": "https://www.youtube.com/watch?v=RdOh7jOSlJk&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Episódio 02",
+          "url": "https://www.youtube.com/watch?v=HjDgg92CyLI&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=6"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Episódio 03",
+          "url": "https://www.youtube.com/watch?v=4ND49Tka_54&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=11"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Episódio 04",
+          "url": "https://www.youtube.com/watch?v=7a88dB319dg&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=16"
+        },
+        {
+          "titulo": "Episódio 05",
+          "url": "https://www.youtube.com/watch?v=iaxAPoEhGkQ&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=21"
+        },
+        {
+          "titulo": "Episódio 06",
+          "url": "https://www.youtube.com/watch?v=lU1Aa3x6yAw&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=26"
+        },
+        {
+          "titulo": "Episódio 07",
+          "url": "https://www.youtube.com/watch?v=PnFv39tWK-A&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=31"
+        },
+        {
+          "titulo": "Episódio 08",
+          "url": "https://www.youtube.com/watch?v=lqydVm2p0e8&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=36"
+        },
+        {
+          "titulo": "Episódio 09",
+          "url": "https://www.youtube.com/watch?v=j9AANSyt5YY&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=41"
+        },
+        {
+          "titulo": "Episódio 10",
+          "url": "https://www.youtube.com/watch?v=NPDb6Zm-aKc&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=46"
+        },
+        {
+          "titulo": "Episódio 11",
+          "url": "https://www.youtube.com/watch?v=amsvD4wSSP0&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=51"
+        },
+        {
+          "titulo": "Episódio 12",
+          "url": "https://www.youtube.com/watch?v=0WZ2gbeQIy0&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=56"
+        },
+        {
+          "titulo": "Episódio 13",
+          "url": "https://www.youtube.com/watch?v=2pG_6TNpmZs&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=61"
+        },
+        {
+          "titulo": "Episódio 14",
+          "url": "https://www.youtube.com/watch?v=o-yZh1EXuK4&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=66"
+        },
+        {
+          "titulo": "Episódio 15",
+          "url": "https://www.youtube.com/watch?v=OrRPqGhQd0A&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=71"
+        },
+        {
+          "titulo": "Episódio 16",
+          "url": "https://www.youtube.com/watch?v=_y2hLE6d0ys&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=76"
+        },
+        {
+          "titulo": "Episódio 17",
+          "url": "https://www.youtube.com/watch?v=7gBDW-yefYY&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=81"
+        },
+        {
+          "titulo": "Episódio 18",
+          "url": "https://www.youtube.com/watch?v=Lq7t9YpWByI&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=86"
+        },
+        {
+          "titulo": "Episódio 19",
+          "url": "https://www.youtube.com/watch?v=27bjtWZ2mzU&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=91"
+        },
+        {
+          "titulo": "Episódio 20",
+          "url": "https://www.youtube.com/watch?v=Q1Fc-qRR3SI&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=96"
+        },
+        {
+          "titulo": "Episódio 21",
+          "url": "https://www.youtube.com/watch?v=4yulWlj3EDQ&list=PLLGZc9yukW0dQqM0aH44H-YpF4-svt2s0&index=101"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "3º Temporada",
+      "cor": "#e2d626",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Episódio 01",
+          "url": "https://www.youtube.com/watch?v=9vL4bM6xYs4&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Episódio 02",
+          "url": "https://www.youtube.com/watch?v=a1_IjTtcThw&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=6"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Episódio 03",
+          "url": "https://www.youtube.com/watch?v=jA9we5UAus0&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=11"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Episódio 04",
+          "url": "https://www.youtube.com/watch?v=Kqz14Iu1k9M&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=16"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Episódio 05",
+          "url": "https://www.youtube.com/watch?v=geZlO6jCzDI&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=21"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Episódio 06",
+          "url": "https://www.youtube.com/watch?v=UgGia6ptX0I&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=26"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Episódio 07",
+          "url": "https://www.youtube.com/watch?v=HN8HGvvczPk&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=31"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Episódio 08",
+          "url": "https://www.youtube.com/watch?v=xTHmUl9rvys&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=36"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Episódio 09",
+          "url": "https://www.youtube.com/watch?v=7QvwvWYkOX0&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=41"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Episódio 10",
+          "url": "https://www.youtube.com/watch?v=GX0f4Ofb_aY&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=46"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Episódio 11",
+          "url": "https://www.youtube.com/watch?v=PCTqFr45TB8&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=51"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Episódio 12",
+          "url": "https://www.youtube.com/watch?v=tYVUR5YkkX0&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=56"
+        },
+        {
+          "titulo": "Episódio 13",
+          "url": "https://www.youtube.com/watch?v=QvP8EK08opI&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=61"
+        },
+        {
+          "titulo": "Episódio 14",
+          "url": "https://www.youtube.com/watch?v=6HUAf8612pY&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=66"
+        },
+        {
+          "titulo": "Episódio 15",
+          "url": "https://www.youtube.com/watch?v=3O4WqOrP5eQ&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=71"
+        },
+        {
+          "titulo": "Episódio 16",
+          "url": "https://www.youtube.com/watch?v=4NuZCa00rZ0&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=76"
+        },
+        {
+          "titulo": "Episódio 17",
+          "url": "https://www.youtube.com/watch?v=qA2G-X7IzIc&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=81"
+        },
+        {
+          "titulo": "Episódio 18",
+          "url": "https://www.youtube.com/watch?v=asI0WuEreB4&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=86"
+        },
+        {
+          "titulo": "Episódio 19",
+          "url": "https://www.youtube.com/watch?v=ge0h4EgX7Dg&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=91"
+        },
+        {
+          "titulo": "Episódio 20",
+          "url": "https://www.youtube.com/watch?v=EKRUCoh45fA&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=96"
+        },
+        {
+          "titulo": "Episódio 21",
+          "url": "https://www.youtube.com/watch?v=2nezIzyKdv0&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=101"
+        },
+        {
+          "titulo": "Episódio 22",
+          "url": "https://www.youtube.com/watch?v=lw0S4iW2eW0&list=PLLGZc9yukW0eWRNof4i0s-L7NqcUDcITS&index=106"
         }
       ]
     }
+
   ]
 }
